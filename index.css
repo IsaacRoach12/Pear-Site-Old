@@ -1,0 +1,45 @@
+header {
+    background-color: rgb(91, 106, 101);
+    outline-width: 0px;
+    color: aliceblue;
+    text-decoration-color: azure;
+}
+body {
+    background-color: rgb(45, 66, 66);
+    color: azure;
+}
+.bnav {
+    background-color: #4ccb59;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-color: black;
+}
+.bnav:hover {
+    background-color: #0bf522;
+}
+footer {
+    background-color: rgb(91, 106, 101);
+    outline-width: 0px;
+    color: aliceblue;
+    text-decoration-color: azure;
+}
+a {
+    color: azure;
+}
+button {
+    background-color: transparent;
+    border-width: 2px;
+    border-color: black;
+    padding: 14px 25px;
+    text-align: center;
+    font-size: 16;
+    color: #4ccb59;
+    display: inline-block;
+}
+button:hover {
+    color: azure;
+    background-color: #4ccb59;
+}
